@@ -1,6 +1,6 @@
 //1. Put this file in the "codam" folder of the "main" server folder.
 //2. Add the below line to "modlist.gsc":
-//[[register]]("Test plugin", codam\test_plugin::main);
+//[[register]]("Kill plugin", codam\kill_plugin::main);
 
 main(phase, register)
 {
